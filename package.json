@@ -1,0 +1,9 @@
+{
+  "name": "machine-learning",
+  "description": "Machine Learning examples",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "requirejs": "2.x"
+  }
+}
